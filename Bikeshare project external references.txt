@@ -1,0 +1,5 @@
+https://sparkbyexamples.com/python-pandas-tutorial-for-beginners/
+- used this site to understand pandas head() – Returns Top N Rows for my code (line 240)
+
+https://www.w3schools.com/python/default.asp
+- used this site to look up various python information to help with discovering useful tools when trying to perform specific functions not covered in the course material and to help de-bugging when writing loops and functions in particular
